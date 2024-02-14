@@ -1,0 +1,22 @@
+Certainly! Here’s a concise list of essential Git commands that you might find useful:
+
+Initialize a Repository:
+git init: Creates a new Git repository in the current directory.
+Add Files to Staging Area:
+git add <file>: Stages changes in the specified file for the next commit.
+git add .: Stages all changes in the working directory.
+Commit Changes:
+git commit -m "Your commit message": Records staged changes with a descriptive message.
+View Differences:
+git diff: Shows differences between the working directory and the last commit.
+git diff <commit1> <commit2>: Compares specific commits.
+Branching and Merging:
+git branch: Lists all branches in the repository.
+git branch <branch-name>: Creates a new branch.
+git checkout <branch-name>: Switches to a different branch.
+git merge <branch-name>: Merges changes from another branch into the current branch.
+Remote Repositories:
+git clone <repository-url>: Clones a remote repository to your local machine.
+git push: Pushes local changes to a remote repository.
+git pull: Fetches changes from a remote repository and merges them into the current branch.
+Remember, this is just a quick reference. For more details and additional Git commands, you can explore comprehensive cheat sheets like the GeeksforGeeks Git Cheat Sheet or refer to DZone’s Top 20 Git Commands with Examples. Happy coding! 🚀
